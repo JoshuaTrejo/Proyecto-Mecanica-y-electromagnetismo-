@@ -1,29 +1,30 @@
 # Proyecto-Mecanica-y-electromagnetismo-
-Este es un programa en Python que resuelve varios problemas comunes de fisica, incluyendo: Tiro Parabolico, Movimiento Rectilineo Uniforme (MRU), Cai­da Libre y Ley de Coulomb. El programa tambiÃ©n incluye graficas para visualizar los resultados de cada problema.
+
+Este es un programa en Python que resuelve varios problemas comunes de física, incluyendo: Tiro Parabólico, Movimiento Rectilíneo Uniforme (MRU), Caída Libre y Ley de Coulomb. El programa también incluye gráficas para visualizar los resultados de cada problema.
 
 ## Problemas Resueltos
 
 El programa resuelve los siguientes problemas:
 
-1. Movimiento Rectilineo Uniforme (MRU)
-   - Calcula la posicion final de un objeto en MRU a partir de la posicion inicial, velocidad y tiempo.
-   - Grafica la posicion en funcion del tiempo.
+1. Movimiento Rectilíneo Uniforme (MRU)
+   - Calcula la posición final de un objeto en MRU a partir de la posición inicial, velocidad y tiempo.
+   - Grafica la posición en función del tiempo.
 
-2. Caida Libre
-   - Calcula el tiempo de cai­da y la velocidad final de un objeto en cai­da libre desde una altura inicial dada.
-   - Grafica la altura en funcion del tiempo.
+2. Caída Libre
+   - Calcula el tiempo de caída y la velocidad final de un objeto en caída libre desde una altura inicial dada.
+   - Grafica la altura en función del tiempo.
 
-3. Tiro Parabolico
-   - Calcula la altura maxima, alcance horizontal y tiempo de vuelo de un proyectil lanzado en un angulo dado y con una velocidad inicial dada.
+3. Tiro Parabólico
+   - Calcula la altura máxima, alcance horizontal y tiempo de vuelo de un proyectil lanzado en un ángulo dado y con una velocidad inicial dada.
    - Grafica la trayectoria del proyectil.
 
 4. Ley de Coulomb
-   - Calcula la fuerza electrica entre dos particulas cargadas a partir de las cargas y la distancia entre ellas.
-   - Grafica la fuerza en funcion de la distancia.
+   - Calcula la fuerza eléctrica entre dos partículas cargadas a partir de las cargas y la distancia entre ellas.
+   - Grafica la fuerza en función de la distancia.
 
-## Como Ejecutar el Programa
+## Cómo Ejecutar el Programa
 
-1. Asegurate de tener Python 3.x instalado en tu sistema.
+1. Asegúrate de tener Python 3.x instalado en tu sistema.
 
 2. Abre una terminal y navega hasta el directorio del programa.
 
@@ -35,8 +36,26 @@ El programa resuelve los siguientes problemas:
 
 6. Sigue las instrucciones en pantalla para seleccionar el problema que deseas resolver.
 
-Requisitos
+## Requisitos
 El programa requiere tener instalado Python 3.x y las siguientes bibliotecas:
 
 NumPy
 Matplotlib
+
+## Cómo Ejecutar el Programa en Google Colab
+
+1. Abre tu navegador y busca Google Colab
+
+2. Entra en el primer resultado
+
+3. Inicia sesion o crea una cuenta
+
+5. Crea un nuevo cuaderno
+
+6. Pega el codigo del archivo "ProyectoMec.py"
+
+7. Dale en el boton de Play
+
+## Ejemplos de problemas
+
+![Ejemplos de problemas resueltos](Ejemplos de problemas.jpg)
