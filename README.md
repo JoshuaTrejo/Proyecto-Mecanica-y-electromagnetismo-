@@ -58,4 +58,4 @@ Matplotlib
 
 ## Ejemplos de problemas
 
-![Ejemplos de problemas resueltos](Ejemplos.jpg)
+![Ejemplos de problemas resueltos](Ejemplos.jpeg)
